@@ -1,5 +1,3 @@
-# Sistemas Nebulosos 2007
-# 1o. Trabalho - Aluno Daniel Saraiva Leite
 # Base GLASS - UCI - http://mlearn.ics.uci.edu/databases/glass/glass.data
 # O arquivo foi preprocessado com expressoes regulares para remover a classe por meio da ferramenta Notepad++
 # Dependendo da configuracao regional da maquina, pode ser necessaria substituir os pontos por virgulas
