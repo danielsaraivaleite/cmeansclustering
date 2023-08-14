@@ -2,7 +2,6 @@
  * Main.java
  *
  * Created on 20 de Outubro de 2007, 20:50
- * Sistemas Nebulosos - 2007
  */
 
 package cmeans;
